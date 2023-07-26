@@ -1,0 +1,80 @@
+[
+    {
+        "nome": "Judite",
+        "sobrenome": "Padrão",
+        "empresa": "Metalurgica João Silveira",
+        "endereco": "Rua Capitão Azevedo",
+        "numero": "450",
+        "pais": "Brasil",
+        "cidade": "São Paulo",
+        "estado": "São Paulo",
+        "cep": "00020001",
+        "telefone": "11904000321",
+        "email": "teste@teste.com"
+    },
+    {
+        "nome": "Claudete",
+        "sobrenome": "Giorgino",
+        "empresa": "Centro Estético Claudete Giorgino Bertolucci",
+        "endereco": "Rua Ana Paula de Freitas",
+        "numero": "222",
+        "pais": "Brasil",
+        "cidade": "São Paulo",
+        "estado": "São Paulo",
+        "cep": "00000001",
+        "telefone": "11935000777",
+        "email": "teste@teste.com"
+    },
+    {
+        "nome": "Mário",
+        "sobrenome": "Teodoro",
+        "empresa": "Metalurgica João Silveira",
+        "endereco": "Rua Capitão Azevedo",
+        "numero": "1000",
+        "pais": "Brasil",
+        "cidade": "São Paulo",
+        "estado": "São Paulo",
+        "cep": "00010001",
+        "telefone": "11909000999",
+        "email": "teste@teste.com"
+    },
+    {
+        "nome": "Rubens",
+        "sobrenome": "Vitorio",
+        "empresa": "Panificadora do Zé",
+        "endereco": "Rua São Sebastião",
+        "numero": "307",
+        "pais": "Brasil",
+        "cidade": "São Paulo",
+        "estado": "São Paulo",
+        "cep": "00050005",
+        "telefone": "11902000789",
+        "email": "teste@teste.com"
+    },
+    {
+        "nome": "Silvana",
+        "sobrenome": "Ciqueira",
+        "empresa": "Confecção Maria José",
+        "endereco": "Rua Humberto Martins",
+        "numero": "900",
+        "pais": "Brasil",
+        "cidade": "Valinhos",
+        "estado": "São Paulo",
+        "cep": "00010001",
+        "telefone": "11909000999",
+        "email": "teste@teste.com"
+    },
+    {
+        "nome": "Taciana",
+        "sobrenome": "Albuquerque",
+        "empresa": "Comercio de Cosmeticos Lavanda",
+        "endereco": "Rua Honorina Cruz",
+        "numero": "11",
+        "pais": "Brasil",
+        "cidade": "São Paulo",
+        "estado": "Campinas",
+        "cep": "00020002",
+        "telefone": "11808000000",
+        "email": "teste@teste.com"
+    }
+]
